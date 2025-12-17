@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Arduino structure
 
-!arduino_code/img.png
+![Structure](arduino_code/img.png)
